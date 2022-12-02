@@ -1,6 +1,6 @@
 # Antroji_uzduotis
 
-#v1.1
+# v1.1
 
 Šioje versijoje buvo atliktas struktūros pakeitimas į klasę. Buvo atliktas programos greičio palyginimas (su list) tarp struktūros ir klasės. Vėliau buvo atlikta eksperimentinė greičio analizė priklausomai nuo kompiliatoriaus optimizavimo lygio.
 
@@ -21,6 +21,6 @@ Grupavimo greičio palyginimas pagal flag'us:
 
 Testavimai atlikti su 5 namų darbais. Iš gautų rezultatų galima pamatyti, jog tiek struktūroje, tiek klasėje grupavimo greitis skiriasi nedaug. Su 100000 duomenų buvo greitesnė struktūra, o su 1000000 buvo greitesnė klasė. Grupavimo greitis taip pat nedaug skyrėsi grupuojant pagal kompiliatoriaus optimizavimo lygi. Su 100000 duomenų greičiausiai buvo o3 flag'as, o su 1000000 - o1.
 
-#v1.2
-
+# v1.2
+ 
 Atlikta reikiamų operatorių ("Rule of three") realizacija.
