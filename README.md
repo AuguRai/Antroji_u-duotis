@@ -33,3 +33,6 @@ Buvusi klasė "studentas" išskaidyta į bazinę abstrakčiąją klasę "žmogus
 
 Sukurta projekto dokumentacija
 
+# Naudojimosi instrukcija
+
+Parsisiuntus programą paspauskite ant "run.bat" failo
