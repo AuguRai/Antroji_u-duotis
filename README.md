@@ -24,3 +24,12 @@ Testavimai atlikti su 5 namų darbais. Iš gautų rezultatų galima pamatyti, jo
 # v1.2
  
 Atlikta reikiamų operatorių ("Rule of three") realizacija.
+
+# v1.5
+
+Buvusi klasė "studentas" išskaidyta į bazinę abstrakčiąją klasę "žmogus", skirtą bendrai aprašyti žmogų, ir į jos išvestinę klasę "studentas".
+
+# 2.0
+
+Sukurta projekto dokumentacija
+
